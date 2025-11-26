@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+miniPro/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# OS / Editor garbage
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
