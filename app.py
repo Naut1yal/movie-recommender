@@ -34,7 +34,7 @@ def show_movie_card(movie_row: pd.Series):
 
 def main():
     st.title("🎬 Live Movie Recommendation System")
-    st.write("Recommendations using TMDB online data + TF-IDF & cosine similarity (no local dataset).")
+    st.write("Made By ArunNautiyal! | Inspired by Tmdb")
 
     # Load base catalog and recommender
     with st.spinner("Loading movie catalog and building ML model..."):
