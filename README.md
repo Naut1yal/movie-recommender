@@ -6,3 +6,4 @@ ML method = TF-IDF + cosine similarity over combined movie features
 
 UI framework = Streamlit
 
+Application Link= https://movie-recommender-by-arun9tiyal.streamlit.app/
